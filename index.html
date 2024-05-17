@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Age calculator</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Age Calculator</h1>
+      <div class="input-container">
+        <input
+          type="date"
+          onchange="calculateAge()"
+          id="birthdate"
+          name="birthdate" />
+      </div>
+      <div class="result-container">
+        <span id="age" class="age-text"></span>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
