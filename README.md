@@ -10,5 +10,5 @@ The Age Calculator Web App allows users to input their birthdate and calculates 
    - Select your birthdate from the calendar.
    - The result will display your approximate age in years, months, and days.
 3. **Option 2: Manual Entry**
-   - Type your birthdate in the format "YYYY-MM-DD" directly into the input field.
+   - Type your birthdate in the format "YYYY/MM/DD" directly into the input field.
    - The result will display your approximate age in years, months, and days after any change in the input.
